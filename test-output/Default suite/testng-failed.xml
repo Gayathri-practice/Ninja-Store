@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.testCases.phptravels.AddItemToBasketAndRemoveTest">
+        <methods>
+          <include name="itemCheckout"/>
+          <include name="itemCheckout"/>
+          <include name="addItemToBasket"/>
+          <include name="addItemToBasket"/>
+        </methods>
+      </class> <!-- com.testCases.phptravels.AddItemToBasketAndRemoveTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

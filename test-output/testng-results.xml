@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="8" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22011" started-at="2019-09-10T18:38:40Z" finished-at="2019-09-10T18:39:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22011" started-at="2019-09-10T18:38:40Z" finished-at="2019-09-10T18:39:02Z">
+      <class name="com.testCases.phptravels.AddItemToBasketTest">
+        <test-method status="PASS" signature="landingPage()[pri:1, instance:com.testCases.phptravels.AddItemToBasketTest@51565ec2]" name="landingPage" duration-ms="11060" started-at="2019-09-10T18:38:40Z" finished-at="2019-09-10T18:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPage -->
+        <test-method status="PASS" signature="landingPage()[pri:1, instance:com.testCases.phptravels.AddItemToBasketTest@675d3402]" name="landingPage" duration-ms="9270" started-at="2019-09-10T18:38:51Z" finished-at="2019-09-10T18:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPage -->
+        <test-method status="PASS" signature="productSearch()[pri:2, instance:com.testCases.phptravels.AddItemToBasketTest@51565ec2]" name="productSearch" duration-ms="199" started-at="2019-09-10T18:39:00Z" finished-at="2019-09-10T18:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+        <test-method status="PASS" signature="productSearch()[pri:2, instance:com.testCases.phptravels.AddItemToBasketTest@675d3402]" name="productSearch" duration-ms="74" started-at="2019-09-10T18:39:00Z" finished-at="2019-09-10T18:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+        <test-method status="PASS" signature="addItemToBasket()[pri:3, instance:com.testCases.phptravels.AddItemToBasketTest@51565ec2]" name="addItemToBasket" duration-ms="768" started-at="2019-09-10T18:39:00Z" finished-at="2019-09-10T18:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToBasket -->
+        <test-method status="PASS" signature="addItemToBasket()[pri:3, instance:com.testCases.phptravels.AddItemToBasketTest@675d3402]" name="addItemToBasket" duration-ms="581" started-at="2019-09-10T18:39:01Z" finished-at="2019-09-10T18:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToBasket -->
+      </class> <!-- com.testCases.phptravels.AddItemToBasketTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
